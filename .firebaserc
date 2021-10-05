@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "login-5f14f": {
+      "hosting": {
+        "login": [
+          "login-5f14f"
+        ]
+      }
+    }
+  }
+}
